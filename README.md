@@ -1,4 +1,4 @@
-# HackWasm Berlin · 2023/07/14-2023/07/16 · OKP4 Challenge
+# HackWasm Berlin · 23/07/14 - 23/07/16 · OKP4 Challenge
 
 [![hackwasm bannner](./assets/hackwasm.webp)](Nemeton)
 
@@ -12,7 +12,7 @@ OKP4 testnet is ready for builders! Depending on your skills, imagine an applica
 
 **More details coming soon, helpers and other materials will be continoulsy published! So don't hesitate to ⭐ this repo!**
 
-## Challenge Description
+## 👀 Challenge Description
 
 OKP4 will enable a new generation of application to emerge, using a blockchain as an orchestration layer for shared off-chain resources, such as datasets, algorithms, software, and computation.
 
@@ -24,7 +24,7 @@ OKP4 has multiple layers:
 
 Develop contracts leveraging the possibilities offered by the OKP4 architecture, or tools to interact with it.
 
-## Requirements to win
+## 🏆 Requirements to win
 
 To win the hackathon, your project must run/use on/the OKP4 testnet.
 
@@ -35,7 +35,7 @@ Although we are approaching the hackathon with a very open "use your creativity"
 * Interface Development: Unleash your imagination in designing interfaces that interact with OKP4 smart contracts (such as `objectarium`, `cognitarium`, `law-stone`). Yes, we are fond of text-based user interfaces (TUIs), but think beyond that and create something unique.
 * VSCode Extension Development: Enrich the Developer Experience for Prolog development by coding a VSCode extension that interacts seamlessly with the Prolog Logic Module and OKP4 smart contracts (e.g. `law-stone`).
 
-## Docs
+## 📖 Docs
 
 * Website: <https://okp4.network/>
 * Nemeton program: <https://nemeton.okp4.network/>
