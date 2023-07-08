@@ -1,6 +1,6 @@
 # HackWasm Berlin · 23/07/14 - 23/07/16 · OKP4 Challenge
 
-[![hackwasm bannner](./assets/hackwasm.webp)](Nemeton)
+[![hackwasm bannner](./assets/hackwasm.webp)](https://dorahacks.io/hackathon/hackwasm/detail)
 
 [![lint](https://img.shields.io/github/actions/workflow/status/okp4/hackwasm/lint.yml?branch=main&label=lint&style=for-the-badge&logo=github)](https://github.com/okp4/hackwasm/actions/workflows/lint.yml)
 [![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=for-the-badge&logo=conventionalcommits)](https://conventionalcommits.org)
