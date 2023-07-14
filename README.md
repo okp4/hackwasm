@@ -47,6 +47,6 @@ Although we are approaching the hackathon with a very open "use your creativity"
 
 ## 🧪 Testnet
 
-* RPC endpoint: https://api.testnet.okp4.network
+* RPC endpoint: https://api.testnet.okp4.network/rpc
 * Faucet: https://faucet.okp4.network/
 * Explorer: https://explore.okp4.network/OKP4%20testnet
