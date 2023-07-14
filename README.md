@@ -52,3 +52,9 @@ Although we are approaching the hackathon with a very open "use your creativity"
 * gRPC: grpc.testnet.okp4.network:443
 * Faucet: <https://faucet.okp4.network/>
 * Explorer: <https://explore.okp4.network/OKP4%20testnet>
+
+### 📜 Stored smart contracts code ids
+
+* [Objectarium](https://github.com/okp4/contracts/tree/main/contracts/okp4-objectarium): **4**
+* [Law Stone](https://github.com/okp4/contracts/tree/main/contracts/okp4-law-stone): **5**
+* [Cognitarium](https://github.com/okp4/contracts/tree/main/contracts/okp4-cognitarium): **7**
