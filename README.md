@@ -9,6 +9,8 @@
 
 OKP4 testnet is ready for builders! Depending on your skills, imagine an application based on OKP4 Protocol contracts or tools to enhance its experience!
 
+➡️➡️ **Join the Telegram group:** https://t.me/+Ssvh9zj5dztiYjY8 ⬅️⬅️
+
 **More details coming soon, helpers and other materials will be continoulsy published! So don't hesitate to ⭐ this repo!**
 
 ## 👀 Challenge Description
