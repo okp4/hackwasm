@@ -29,7 +29,6 @@ To win the hackathon, your project must run/use on/the OKP4 testnet.
 
 Although we are approaching the hackathon with a very open "use your creativity" un-restrictive track, we would love to see the following:
 
-* Builders Program: Imagine original solutions from the [Builders Program](https://nemeton.okp4.network/builders/challenges#challenges) or use its resources for your project.
 * Smart Contract Development:
     * Tap into the potential of the Prolog Logic Module to create versatile, higher kinded Smart Contracts including the ability to generate Cosmos Msgs for execution.
     * Embed a Prolog interpreter directly into a CosmWasm contract, seamlessly integrating chain state bindings through custom predicates.
