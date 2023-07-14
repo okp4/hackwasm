@@ -9,7 +9,7 @@
 
 OKP4 testnet is ready for builders! Depending on your skills, imagine an application based on OKP4 Protocol contracts or tools to enhance its experience!
 
-➡️➡️ **Join the Telegram group:** https://t.me/+Ssvh9zj5dztiYjY8 ⬅️⬅️
+➡️➡️ **Join the Telegram group:** <https://t.me/+Ssvh9zj5dztiYjY8> ⬅️⬅️
 
 **More details coming soon, helpers and other materials will be continoulsy published! So don't hesitate to ⭐ this repo!**
 
@@ -32,8 +32,8 @@ To win the hackathon, your project must run/use on/the OKP4 testnet.
 Although we are approaching the hackathon with a very open "use your creativity" un-restrictive track, we would love to see the following:
 
 * **Smart Contract Development**:
-    * Tap into the potential of the Prolog Logic Module to create versatile, higher kinded Smart Contracts including the ability to generate Cosmos Msgs for execution.
-    * Embed a Prolog interpreter directly into a CosmWasm contract, seamlessly integrating chain state bindings through custom predicates.
+  * Tap into the potential of the Prolog Logic Module to create versatile, higher kinded Smart Contracts including the ability to generate Cosmos Msgs for execution.
+  * Embed a Prolog interpreter directly into a CosmWasm contract, seamlessly integrating chain state bindings through custom predicates.
 * **Interface Development**: Unleash your imagination in designing interfaces that interact with OKP4 smart contracts (such as `objectarium`, `cognitarium`, `law-stone`). Yes, we are fond of text-based user interfaces (TUIs), but think beyond that and create something unique.
 * **VSCode Extension Development**: Enrich the Developer Experience for Prolog development by coding a VSCode extension that interacts seamlessly with the Prolog Logic Module and OKP4 smart contracts (e.g. `law-stone`).
 
@@ -47,8 +47,8 @@ Although we are approaching the hackathon with a very open "use your creativity"
 
 ## 🧪 Testnet
 
-* RPC: https://api.testnet.okp4.network/rpc
-* LCD: https://api.testnet.okp4.network/rpc
+* RPC: <https://api.testnet.okp4.network/rpc>
+* LCD: <https://api.testnet.okp4.network/rpc>
 * gRPC: grpc.testnet.okp4.network:443
-* Faucet: https://faucet.okp4.network/
-* Explorer: https://explore.okp4.network/OKP4%20testnet
+* Faucet: <https://faucet.okp4.network/>
+* Explorer: <https://explore.okp4.network/OKP4%20testnet>
