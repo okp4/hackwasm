@@ -42,3 +42,9 @@ Although we are approaching the hackathon with a very open "use your creativity"
 * Official documentation: <https://docs.okp4.network/>
 * Blockchain repo: <https://github.com/okp4/okp4d>
 * Smart contracts repo: <https://github.com/okp4/contracts>
+
+## 🧪 Testnet
+
+* RPC endpoint: https://api.testnet.okp4.network
+* Faucet: https://faucet.okp4.network/
+* Explorer: https://explore.okp4.network/OKP4%20testnet
